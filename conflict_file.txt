@@ -3,3 +3,13 @@
 3. Pętle
 4. Typy danych
 5. Dobre praktyki
+1. Wprowadzenie
+2. Funkcje
+3. Pętle
+4. Typy danych
+5. Dobre praktyki
+1. Wprowadzenie
+2. Funkcje
+3. Pętle
+4. Typy danych
+5. Dobre praktyki
